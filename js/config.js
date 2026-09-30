@@ -4,5 +4,7 @@
 const ALLOWED_USERS = [
    { firstName: "Kylee", last4: "2911" },
    { firstName: "Annie", last4: "5405" },
-   { firstName: "Elizabeth", last4: "3115" }
+   { firstName: "Elizabeth", last4: "3115" },
+   { firstName: "Juliana", last4: "0661" },
+   { firstName: "Kaela", last4: "9145" }
 ];
